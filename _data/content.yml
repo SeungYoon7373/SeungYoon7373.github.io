@@ -6,7 +6,7 @@
 ### Hero [ hero-image ]
 hero:
   image: "assets/img/profile2.png"
-  image_alt: "SeungYoon Kang"
+  image_alt: "강승윤"
   title: "<b>Zoé</b> Miller"
   before_title: "Hello, <b>my name is</b>"
   after_title: "I am <strong>Web Developer</strong>"
