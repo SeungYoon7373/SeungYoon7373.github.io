@@ -10,7 +10,7 @@ hero:
   before_title: "Welcome, <b>My Name is...</b>"
   title: "<b>SeungYoon</b> Kang"
   after_title: "I am <strong>CyberSecurity Student</strong>"
-  description: "한국폴리텍대학 강서캠퍼스 사이버보안과 2학년에 재학 중인<br>열정있는 학생입니다"
+  description: "한국폴리텍대학 강서캠퍼스 사이버보안과 2학년에 재학 중인<br>열정있는 학생입니다</br>"
   button1:
     label: ""
     link: "https://www.kopo.ac.kr/kangseo/content.do?menu=12136"
