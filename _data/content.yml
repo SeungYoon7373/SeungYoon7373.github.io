@@ -58,8 +58,8 @@ skills:
         text: "Docker를 사용하여 컨테이너를 만들고 관리할 수 있습니다. Dockerfile을 작성하고, 이미지 빌드 및 배포를 수행할 수 있습니다"
         value: "60" #0-100 progress in %
 
-      - label: "VMware Workstation" #0-10 progress in dots
-        text: "VMware Workstation을 사용하여 VM을 만들고 설정을 디테일하게 할 수 있습니다. 또한 VMware Workstation으로 MAC OS를 설치할 수 있습니다"
+      - label: "VMWare Workstation" #0-10 progress in dots
+        text: "VMWare Workstation을 사용하여 VM을 만들고 설정을 디테일하게 할 수 있습니다. 또한 VMware Workstation으로 MAC OS를 설치할 수 있습니다"
         value: "75" #0-100 progress in %
 
 
