@@ -24,9 +24,9 @@ social:
     icon: "fab fa-twitter"
     url: "http://twitter.com"
 
-  - title: "Dribbble"
-    icon: "fab fa-dribbble"
-    url: "http://dribbble.com"
+  - title: "GitHub"
+    icon: "fab fa-github"
+    url: "https://github.com/SeungYoon7373"
 
   - title: "LinkedIn"
     icon: "fab fa-linkedin"
