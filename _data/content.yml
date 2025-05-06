@@ -10,33 +10,33 @@ hero:
   before_title: "Welcome, <b>My Name is...</b>"
   title: "<b>SeungYoon</b> Kang"
   after_title: "I am <strong>CyberSecurity Student</strong>"
-  description: "한국폴리텍대학 강서캠퍼스 사이버보안과 2학년에 재학 중인<br>열정있는 학생입니다</br>"
+  description: "한국폴리텍대학 강서캠퍼스 사이버보안과 2학년에<br>재학 중인 열정있는 학생입니다</br>"
   button1:
     label: ""
     link: "https://www.kopo.ac.kr/kangseo/content.do?menu=12136"
   button2:
     label: "My Skills"
     link: "#skills-section"
-  bg_title: "Cyber Security Student"
+  bg_title: "Cyber Security"
   info:
-    - num: "2 <strong>+</strong>"
+    - num: "2<strong>+</strong>"
       value: "Years of <strong>Experience</strong>"
 
-    - num: "4 <strong>+</strong>"
+    - num: "4<strong>+</strong>"
       value: "<strong>Projects</strong> <br>in Progress</br>"
 
 
 ### Skills [ skills ]
 skills:
-  title: "Professional Skills"
+  title: "Skills"
   subtitle: "my <b>Skills</b>"
   bg_title: "Skills"
 
   column1:
     items:
       - label: "linux iptables" #0-10 progress in dots
-        text: "기본 정책 설정, 패킷 필터링, 포트 포워딩, NAT 설정, 로깅 설정, 헤더 정보 변경 등을 실수없이 수행할 수 있습니다"
-        value: "95" #0-100 progress in %
+        text: "기본 정책 설정, 패킷 필터링, 포트 포워딩, NAT 설정, 로깅 설정, 헤더 정보 변경 등을 룰 충돌없이 의도한대로 수행할 수 있습니다"
+        value: "99" #0-100 progress in %
 
       - label: "Wireshark" #0-10 progress in dots
         text: "와이어샤크를 사용하여 패킷을 캡처하고 분석할 수 있습니다. 패킷 필터링, 프로토콜 분석, 트래픽 통계, 복호화 등을 수행할 수 있습니다"
