@@ -22,8 +22,8 @@ hero:
     - num: "2 <strong>+</strong>"
       value: "Years of <strong>Experience</strong>"
 
-    - num: "0"
-      value: "Completed <strong>Projects</strong>"
+    - num: "4"
+      value: "<strong>Projects</strong> in Progress"
 
 ### Services [ services ]
 services:
