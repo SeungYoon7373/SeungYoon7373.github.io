@@ -28,9 +28,9 @@ social:
     icon: "fab fa-dribbble"
     url: "http://dribbble.com"
 
-  - title: "Behance"
-    icon: "fab fa-behance"
-    url: "http://behance.com"
+  - title: "LinkedIn"
+    icon: "fab fa-linkedin"
+    url: "https://kr.linkedin.com/"
 
 ### Footer
 footer:
