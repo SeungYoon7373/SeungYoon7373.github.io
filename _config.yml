@@ -31,7 +31,7 @@
 # basic settings
 title: "SY's Blog"
 email: "seungyoon7373@gmail.com"
-description: "SY's Personal Blog"
+description: "SY's Portfolio Blog"
 author: "SY"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://SeungYoon7373.github.io" # the base hostname & protocol for your site, e.g. http://example.com
