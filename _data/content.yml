@@ -10,7 +10,7 @@ hero:
   before_title: "Welcome, <b>My Name is...</b>"
   title: "<b>SeungYoon</b> Kang"
   after_title: "I am <strong>CyberSecurity Student</strong>"
-  description: "한국폴리텍대학 강서캠퍼스 사이버보안과 2학년 학생입니다"
+  description: "한국폴리텍대학 강서캠퍼스 사이버보안과 2학년에 재학 중인 열정있는 학생입니다"
   button1:
     label: ""
     link: "https://www.kopo.ac.kr/kangseo/content.do?menu=12136"
@@ -22,8 +22,45 @@ hero:
     - num: "2 <strong>+</strong>"
       value: "Years of <strong>Experience</strong>"
 
-    - num: "4"
+    - num: "4 <strong>+</strong>"
       value: "<strong>Projects</strong> <br>in Progress</br>"
+
+### Skills [ skills ]
+skills:
+  title: "Professional Skills"
+  subtitle: "my <b>Skills</b>"
+  bg_title: "Skills"
+
+  column1:
+    items:
+      - label: "linux iptables" #0-10 progress in dots
+        text: "기본 정책 설정, 패킷 필터링, 포트 포워딩, NAT 설정, 로깅 설정, 헤더 정보 변경 등을 실수없이 수행할 수 있습니다"
+        value: "95" #0-100 progress in %
+
+      - label: "Wireshark" #0-10 progress in dots
+        text: "와이어샤크를 사용하여 패킷을 캡처하고 분석할 수 있습니다. 패킷 필터링, 프로토콜 분석, 트래픽 통계, 복호화 등을 수행할 수 있습니다"
+        value: "80" #0-100 progress in %
+
+  column2:
+    items:
+      - label: "C" #0-10 progress in dots
+        text: "C의 포인터, 메모리 관리, 구조체를 사용할 수 있으며 상용 코드를 어렵지 않게 이해할 수 있습니다"
+        value: "85" #0-100 progress in %
+
+      - label: "Python" #0-10 progress in dots
+        text: "Python으로 필요한 스크립트를 코딩할 수 있으며, 다양한 라이브러리를 활용하여 복잡하지 않은 프로그램을 개발할 수 있습니다"
+        value: "75" #0-100 progress in %
+
+  column3:
+    items:
+      - label: "Docker" #0-10 progress in dots
+        text: "Docker를 사용하여 컨테이너를 만들고 관리할 수 있습니다. Dockerfile을 작성하고, 이미지 빌드 및 배포를 수행할 수 있습니다"
+        value: "60" #0-100 progress in %
+
+      - label: "VMware Workstation" #0-10 progress in dots
+        text: "VMware Workstation을 사용하여 VM을 만들고 설정을 디테일하게 할 수 있습니다. 또한 VMware Workstation으로 MAC OS를 설치할 수 있습니다"
+        value: "75" #0-100 progress in %
+
 
 ### Services [ services ]
 services:
@@ -62,41 +99,6 @@ services:
       button_label: "See Pricing"
       button_link: "#pricing-section"
 
-### Skills [ skills ]
-skills:
-  title: "Professional Skills"
-  subtitle: "my <b>Skills</b>"
-  bg_title: "Skills"
-
-  column1:
-    items:
-      - label: "linux iptables" #0-10 progress in dots
-        text: "기본 정책 설정, 패킷 필터링, 포트 포워딩, NAT 설정, 로깅 설정, 헤더 정보 변경 등을 실수없이 수행할 수 있습니다"
-        value: "95" #0-100 progress in %
-
-      - label: "Wireshark" #0-10 progress in dots
-        text: "와이어샤크를 사용하여 패킷을 캡처하고 분석할 수 있습니다. 패킷 필터링, 프로토콜 분석, 트래픽 통계, 복호화 등을 수행할 수 있습니다"
-        value: "80" #0-100 progress in %
-
-  column2:
-    items:
-      - label: "C" #0-10 progress in dots
-        text: "C의 포인터, 메모리 관리, 구조체를 사용할 수 있으며 상용 코드를 어렵지 않게 이해할 수 있습니다"
-        value: "80" #0-100 progress in %
-
-      - label: "Python" #0-10 progress in dots
-        text: "Python으로 필요한 스크립트를 코딩할 수 있으며, 다양한 라이브러리를 활용하여 복잡하지 않은 프로그램을 개발할 수 있습니다"
-        value: "60" #0-100 progress in %
-
-  column3:
-    items:
-      - label: "Docker" #0-10 progress in dots
-        text: "Docker를 사용하여 컨테이너를 만들고 관리할 수 있습니다. Dockerfile을 작성하고, 이미지 빌드 및 배포를 수행할 수 있습니다"
-        value: "80" #0-100 progress in %
-
-      - label: "VMware Workstation" #0-10 progress in dots
-        text: "VMware 사용하여 가상 머신을 만들고 설정을 디테일하게 할 수 있습니다. VMware Workstation으로 MAC OS를 설치할 수 있습니다"
-        value: "80" #0-100 progress in %
 
 ### Resume [ resume ]
 resume:
