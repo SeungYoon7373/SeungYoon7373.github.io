@@ -65,7 +65,7 @@ services:
 ### Skills [ skills ]
 skills:
   title: "Professional Skills"
-  subtitle: "my <b>Talent</b>"
+  subtitle: "my <b>Skills</b>"
   bg_title: "Skills"
 
   column1:
