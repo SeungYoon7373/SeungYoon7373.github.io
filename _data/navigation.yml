@@ -11,14 +11,14 @@ main:
     url: "/"
     parent: 0
 
-  # Services
-  - title: "Services"
-    url: "#services-section"
-    parent: 0
-
   # Skills
   - title: "Skills"
     url: "#skills-section"
+    parent: 0
+
+  # Services
+  - title: "Services"
+    url: "#services-section"
     parent: 0
 
   # Works
