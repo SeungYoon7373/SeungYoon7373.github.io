@@ -9,7 +9,7 @@ hero:
   image_alt: "강승윤"
   before_title: "Welcome, <b>My Name is...</b>"
   title: "<b>SeungYoon</b> Kang"
-  after_title: "I am <strong>Cyber Security Student</strong>  and <strong>Professional Engineer</strong>  in future"
+  after_title: "I am <strong>CyberSecurity Student</strong>"
   description: "한국폴리텍대학 강서캠퍼스 사이버보안과 2학년 학생입니다"
   button1:
     label: ""
