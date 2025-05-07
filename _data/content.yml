@@ -104,44 +104,34 @@ services:
 ### Resume [ resume ]
 resume:
   title: "Resume"
-  subtitle: "my <b>Story</b>"
+  subtitle: "학력 및 경력"
   bg_title: "History"
 
   education:
     title: "Education"
     items:
-      - name: "CoderHouse Courses"
-        subname: "Backend Programming"
-        period: "2014 - 2016"
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      - name: "Korea Polytechnics"
+        subname: "Basic of CyberSecurity"
+        period: "2023 - <b>Present</b>"
+        text: "한국폴리텍대학 사이버보안과에 재학하면서 컴퓨터공학 기초부터 사이버보안 장비 및 솔루션에 이르기까지 두루 열심히 배웠습니다"
 
-      - name: "Lviv National Academy of Arts"
-        subname: "Faculty of Design"
-        period: "2012 - 2014"
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      - name: "KISA"
+        subname: "K-Shield jr."
+        period: "2025 - 2025"
+        text: "KISA에서 운영하는 K-Shield jr. 참여하였습니다"
 
-      - name: "IT Future"
-        subname: "High School"
-        period: "2010 - 2012"
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      - name: "KISIA"
+        subname: "ICT 융합 산업보안 인력양성사업"
+        period: "2025 - 2025"
+        text: "KISIA에서 실행하는 클라우드 보안 관련 교육을 들을 예정입니다"
 
   experience:
     title: "Experience"
     items:
-      - name: "UI Head &amp; Manager"
-        subname: "Soft Tech Inc."
-        period: "2020 - <b>Present</b>"
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-
-      - name: "UI / UX Specialist"
-        subname: "Kana Design Studio"
-        period: "2018 - 2020"
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-
-      - name: "Plugins Developer"
-        subname: "Fiverr.com"
-        period: "2016 - 2018"
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      - name: "Project Leader"
+        subname: "RealTime Voice Encryption Transfer System"
+        period: "2025 - <b>Present</b>"
+        text: "실시간 음성 암호화통신 시스템을 개발하는데 음성 처리, 코덱 인디코딩, 네트워크 구축 등을 수행하였습니다"
 
 
 ### Testimonials [ testimonials ]
