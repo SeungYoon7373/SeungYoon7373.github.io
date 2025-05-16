@@ -8,7 +8,7 @@
 main:
   # Home
   - title: "Home"
-    url: "http://SeungYoon7373yoon.github.io"
+    url: "http://SeungYoon7373.github.io"
     parent: 0
 
   # Skills
