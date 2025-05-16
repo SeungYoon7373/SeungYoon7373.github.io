@@ -5,7 +5,7 @@ date: 2025-05-14
 category:
   - Incident
   - Hacking
-image: assets/img/works/work4.png
+image: assets/img/works/work4.jpg
 ### if need replace preview image for single image add field full_image, ex:
 #full_image: assets/img/blog/BPF_Overview.png
 author: 강승윤
