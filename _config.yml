@@ -33,7 +33,7 @@ title: "SY's Tech Blog"
 email: "seungyoon7373@gmail.com"
 description: "Get My Portfolio"
 author: "SY"
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://SeungYoon7373.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 date_format: "%Y-%m-%d"
 
