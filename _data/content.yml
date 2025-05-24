@@ -1,0 +1,278 @@
+# Sections content configuration file
+##
+### use navigation.yml file to re-order, delete or add section of each card
+### here you can find all content in all pre-build sections
+
+### Hero [ hero-image ]
+hero:
+  image: "assets/img/profile2.png"
+  image_alt: "강승윤"
+  before_title: "<b>Welcome! </b> My Name is"
+  title: "SeungYoon<b> Kang</b>"
+  after_title: "I am <strong>Cybersecurity Student</strong>"
+  description: "한국폴리텍대학 강서캠퍼스 사이버보안과 <br>2학년에 재학 중인 학생입니다</br>"
+  button1:
+    label: "커리큘럼"
+    link: "https://www.kopo.ac.kr/kangseo/content.do?menu=12136"
+  button2:
+    label: "My Skills"
+    link: "#skills-section"
+  bg_title: "Cyber Security"
+  info:
+    - num: "2 <strong>+</strong>"
+      value: "Years of <strong>Experience</strong>"
+
+    - num: "4 <strong>+</strong>"
+      value: "<strong>Projects</strong> <br>in Progress</br>"
+
+# ### Services [ services ]
+# services:
+#   title: "What I Do"
+#   subtitle: "my <b>Services</b>"
+#   bg_title: "Services"
+
+#   items:
+#     - title: "Web Design &amp; Logo"
+#       subtitle: "Web Development"
+#       text: "Web designers craft the overall vision &amp; plan for a website layout. Professional logo development: Business, Company, or Personal."
+#       button_label: "See Pricing"
+#       button_link: "#pricing-section"
+
+#     - title: "iOS &amp; Android"
+#       subtitle: "Apps Development"
+#       text: "Design Software applications to run on mobile devices. Modern and mobile-ready application that will help you reach all of your marketing."
+#       button_label: "See Pricing"
+#       button_link: "#pricing-section"
+
+#     - title: "Unity &amp; Unreal Engine"
+#       subtitle: "Game Development"
+#       text: "Creating games &amp; describes the design, development and release of a game. Developing unique mobile android and ios games."
+#       button_label: "See Pricing"
+#       button_link: "#pricing-section"
+
+#     - title: "Google Ads"
+#       subtitle: "Advertising"
+#       text: "Advertising services include: Google search result pages, gmails, YouTube and other websites participated in Google Ads program."
+#       button_label: "See Pricing"
+#       button_link: "#pricing-section"
+
+#     - title: "Sound Track"
+#       subtitle: "Music Writing"
+#       text: "Music copying, writing, creating, transcription and composition services."
+#       button_label: "See Pricing"
+#       button_link: "#pricing-section"
+
+### Skills [ skills ]
+skills:
+  title: "<span style='font-family: \"Dancing Script\", cursive;'>Skills</span>"
+  subtitle: "<span style='font-family: Italianno, cursive;'>my <b>Skills and Will be</b></span>"
+  bg_title: "<span style='font-family: Italianno, cursive;'>Skills</span>"
+
+  column1:
+    items:
+      - label: "<span style='font-family: \"Tangerine\", cursive; font-size: 48px;'>linux iptables</span>" #0-10 progress in dots
+        text: "기본 정책 설정, 패킷 필터링, 포트 포워딩, 로깅 설정, 헤더 정보 변경 등을 룰 충돌없이 의도대로 수행 가능합니다"
+        value: "85" #0-100 progress in %
+
+      - label: "<span style='font-family: \"Tangerine\", cursive; font-size: 48px;'>Wireshark</span>" #0-10 progress in dots
+        text: "와이어샤크를 이용하여 패킷을 수집하고 분석할 수 있습니다. 수집한 패킷으로 재조립하여 원 페이로드를 추출할 수 있습니다. CLI 환경에서도 수집 및 분석 가능합니다"
+        value: "85" #0-100 progress in %
+
+  column2:
+    items:
+      - label: "<span style='font-family: \"Tangerine\", cursive; font-size: 48px;'>C</span>" #0-10 progress in dots
+        text: "복잡한 C 코드에 대한 해석 및 분석이 가능합니다"
+        value: "85" #0-100 progress in %
+
+      - label: "<span style='font-family: \"Tangerine\", cursive; font-size: 48px;'>Python</span>" #0-10 progress in dots
+        text: "Python으로 간단한 스크립트 작성이 가능하며, 다양한 라이브러리를 활용하여 간단한 프로그램을 개발할 수 있습니다"
+        value: "80" #0-100 progress in %
+
+  column3:
+    items:
+      - label: '<span style="font-family: Tangerine, cursive; font-size: 48px;">VMWare</span>'
+        text: "VMware Workstation 및 ESXi(공부 중)를 이용하여 가상환경을 구축할 수 있습니다"
+        value: "75"
+
+      - label: '<span style="font-family: Tangerine, cursive; font-size: 48px;">PROXMOX</span>'
+        text: "해당 SW를 이용하여 클라우드를 구축할 수 있습니다(2달 안에 95% 예정)"
+        value: "000"
+
+
+### Resumé [ resume ]
+resume:
+  title: "<span style='font-family: \"Dancing Script\", cursive;'>Résumé</span>"
+  subtitle: "학력 및 경력"
+  bg_title: "<span style='font-family: Italianno, cursive;'>History</span>"
+
+  education:
+    title: "<span style='font-family: \"Tangerine\", cursive; font-size: 48px;'>Education</span>"
+    items:
+      - name: "Korea Polytechnics"
+        subname: "Dept. of CyberSecurity"
+        period: "2023 - <b>Present</b>"
+        text: "한국폴리텍대학 사이버보안과에 재학 중 컴퓨터공학 기초(컴퓨터 구조, 운영체제, 네트워크)부터 정보보안개론, 개인정보보호 및 솔루션 기초 개념에 이르기까지 배웠습니다"
+
+      - name: "KISA"
+        subname: "K-Shield jr."
+        period: "2025 - 2025"
+        text: "KISA에서 운영하는 K-Shield jr. 기초과정을 수료하였습니다"
+
+      - name: "KISIA"
+        subname: "온택트 융합보안 개론"
+        period: "2025 - 2025"
+        text: "KISIA에서 실시하는 융합보안개론을 수료하였습니다."
+
+      - name: "KISIA"
+        subname: "ICT 융합 산업보안 인력양성사업"
+        period: "2025 - Future"
+        text: "KISIA에서 실시하는 클라우드 보안 관련 교육을 들을 예정입니다"
+
+  experience:
+    title: "<span style='font-family: \"Tangerine\", cursive; font-size: 48px;'>Experience</span>"
+    items:
+      - name: "PL"
+        subname: "RealTime Voice Encryption Transfer System"
+        period: "2025 - <b>Present</b>"
+        text: "실시간 음성 암호화통신 시스템을 개발하는데 음성 처리, OPUS 코덱 인디코딩, RSA 키교환, 네트워크 구축 등을 수행하였습니다"
+
+# ### Testimonials [ testimonials ]
+# testimonials:
+#   title: "Testimonials"
+#   subtitle: "what <b>Customers Say</b>"
+#   bg_title: "Reviews"
+
+#   items:
+#     - image: "assets/img/testimonials/testi4-2.jpg"
+#       name: "Barbara Wilson"
+#       role: "CEO Company"
+#       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+#     - image: "assets/img/testimonials/testi4-1.jpg"
+#       name: "Charlie Smith"
+#       role: "Designer"
+#       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+#     - image: "assets/img/testimonials/testi4-4.jpg"
+#       name: "Roy Wang"
+#       role: "Manager GYM"
+#       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+#     - image: "assets/img/testimonials/testi4-3.jpg"
+#       name: "Jennifer Smith"
+#       role: "CEO &amp; Founder"
+#       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+#     - image: "assets/img/testimonials/testi4-5.jpg"
+#       name: "Paul Freeman"
+#       role: "Photographer"
+#       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+
+# ### Pricing [ pricing ]
+# pricing:
+#   title: "Pricing"
+#   subtitle: "my <b>Price Board</b>"
+#   bg_title: "Pricing"
+
+#   items:
+#     - name: "Hourley Basis"
+#       center: false
+#       price: "39 <b>$</b>"
+#       price_after: "Hour"
+#       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida."
+#       list:
+#         - value: "Brand Design"
+#           included: true
+#         - value: "Web Development"
+#           included: true
+#         - value: "Advertising"
+#           included: false
+#         - value: "Photography"
+#           included: false
+#       button:
+#         label: "Start Project"
+#         link: "#contact-section"
+
+#     - name: "Freelancing"
+#       center: true
+#       label: "Popular"
+#       price: "259 <b>$</b>"
+#       price_after: "Week"
+#       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida."
+#       list:
+#         - value: "Brand Design"
+#           included: true
+#         - value: "Web Development"
+#           included: true
+#         - value: "Advertising"
+#           included: true
+#         - value: "Photography"
+#           included: false
+#       button:
+#         label: "Start Project"
+#         link: "#contact-section"
+
+#     - name: "Full Time"
+#       center: false
+#       price: "1.249 <b>$</b>"
+#       price_after: "Month"
+#       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida."
+#       list:
+#         - value: "Brand Design"
+#           included: true
+#         - value: "Web Development"
+#           included: true
+#         - value: "Advertising"
+#           included: true
+#         - value: "Photography"
+#           included: true
+#       button:
+#         label: "Start Project"
+#         link: "#contact-section"
+
+
+### Blog [ blog ]
+#items generates from dir /_posts/*
+blog:
+  title: "<span style='font-family: \"Dancing Script\", cursive;'>Latest Post</span>"
+  subtitle: "my <b>Post and Analysis</b>"
+  bg_title: "<span style='font-family: Italianno, cursive;'>Posts</span>"
+  button:
+    label: "View Blog"
+    link: "blog/"
+
+
+### Contact [ contacts ]
+contacts:
+  title: "<span style='font-family: \"Dancing Script\", cursive;'>Contact Me</span>"
+  subtitle: "Let’s <b>Talk About CyberSecurity</b>"
+  bg_title: "<span style='font-family: Italianno, cursive;'>Contact Me</span>"
+
+  list:
+    - label: "Job"
+      icon: "far fa-user"
+      text: "Student majoring in CyberSecurity"
+
+    - label: "Address"
+      icon: "far fa-map"
+      text: "Gangseo-gu, Seoul, South Korea"
+
+    - label: "Email"
+      icon: "far fa-envelope"
+      text: "seungyoon7373@gmail.com"
+
+    - label: "Phone"
+      icon: "far fa-address-book"
+      text: "+82 010 - 9*** - 8***"
+
+
+### Portfolio [ portfolio ]
+#items generates from dir /_works/*
+portfolio:
+  title: "<span style='font-family: \"Dancing Script\", cursive;'>Portfolio</span>"
+  subtitle: "my <b>Cases</b>"
+  bg_title: "<span style='font-family: Italianno, cursive;'>Portfolio</span>"
+  button:
+    link: "works/"
+    label: "View More"

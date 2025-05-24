@@ -1,0 +1,85 @@
+# Theme Settings Configuration File
+##
+### use settings.yml file for configure colors, ui, rtl, sidebar, animation options
+
+### Main Settings
+settings:
+  skin: "dark" # select initial skin option: "light" or "dark"
+
+### Preloader
+preloader:
+  logo:
+    image: "assets/img/logo2.png"
+    alt: ""
+
+### Header
+header:
+  logo:
+    image: "assets/img/logo2.png"
+    alt: "SY"
+
+### Social
+social:
+  - title: "GitHub"
+    icon: "fab fa-github"
+    url: "http://github.com/SeungYoon7373/"
+
+  - title: "LinkedIn"
+    icon: "fab fa-linkedin-in"
+    url: "https://kr.linkedin.com/"
+
+  - title: "X"
+    icon: "fab fa-x-twitter"
+    url: "https://www.x.com"
+
+  - title: "Facebook"
+    icon: "fab fa-facebook-f"
+    url: "https://www.facebook.com/"
+
+  - title: "Instagram"
+    icon: "fab fa-instagram"
+    url: "https://www.instagram.com/"
+
+  - title: "Tumblr"
+    icon: "fab fa-tumblr"
+    url: "https://www.tumblr.com/"
+
+  - title: "Discord"
+    icon: "fab fa-discord"
+    url: "https://discord.com/"
+
+  - title: "Padlet"
+    icon: "fab fa-padlet"
+    url: "https://padlet.com/"
+
+  - title: "Dev.to"
+    icon: "fab fa-dev"
+    url: "https://dev.to/"    
+
+  - title: "HackTheBox"
+    icon: "fab fa-hackerrank"
+    url: "https://www.hackthebox.com/"    
+
+### Footer
+footer:
+  developer: "Powered by <strong>SY</strong>"
+  # copyright: "<strong>Luique</strong>. All rights reserved"
+
+### Portfolio Filters Settings
+portfolio:
+  layout: "List" # select works layout options: "Grid" or "List"
+  filters:
+    - name: "Certification"
+      slug: "Cert"
+
+    - name: "Academic Achievement"
+      slug: "Achieve"
+
+    - name: "NETWORK LAB"
+      slug: "NetLab"
+
+    - name: "PROJECT"
+      slug: "Project"
+
+
+
