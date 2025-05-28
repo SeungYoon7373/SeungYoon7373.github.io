@@ -45,7 +45,7 @@ tags: Protocol RFC6520 Heartbeat OpenSSL
 ⑤ 클라이언트에서 HeartbeatResponse 메시지를 수신하여 연결 상태를 확인한다.  
 ⑥ 이 과정을 반복한다.  
 
-
+<script src="https://gist.github.com/SeungYoon7373/b28d97fde380a49822c8bdf024b49719.js"></script>
 
 <!-- 
 You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in [many different ways](https://jekyllrb.com/docs/usage/), but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
